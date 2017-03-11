@@ -1,0 +1,6 @@
+1;CocaCola;100;15
+2;RedBull;150;15
+3;FantaNaranja;80;15
+4;Sprite;80;14
+5;Agua;60;15
+6;Nestea;80;15
